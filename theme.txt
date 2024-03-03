@@ -1,0 +1,11 @@
+"editor.tokenColorCustomizations": {
+    "[Monokai]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
+          "settings": { "fontStyle": "", "foreground": "#A6E22E" }
+        }
+      ]
+    }
+  },

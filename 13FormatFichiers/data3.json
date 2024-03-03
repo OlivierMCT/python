@@ -1,0 +1,17 @@
+[{
+  "centre":{
+  "x": 11,
+  "y": 22
+  },
+  "rayon": 33,
+  "couleur": "cyan"
+},
+{
+  "centre":{
+  "x": 11,
+  "y": 22
+  },
+  "rayon": 33,
+  "couleur": "cyan"
+}
+]

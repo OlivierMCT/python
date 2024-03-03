@@ -1,0 +1,30 @@
+{
+  "carres": [
+    {
+      "couleur": "yellow",
+      "cote": 40,
+      "centre": {
+        "x": 441,
+        "y": 62
+      }
+    },
+    {
+      "couleur": "red",
+      "cote": 10,
+      "centre": {
+        "x": 11,
+        "y": 22
+      }
+    }
+  ],
+  "cercles": [
+    {
+      "couleur": "orange",
+      "rayon": 55,
+      "centre": {
+        "x": 55,
+        "y": 55
+      }
+    }
+  ]
+}
